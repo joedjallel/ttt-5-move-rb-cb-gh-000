@@ -12,6 +12,6 @@ num= input.to_i
   num=num-1
   return num
 end
-def move (array, index, value)
+def move (array,index,value)
   array[index]=value
 end
